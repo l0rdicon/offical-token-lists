@@ -1,0 +1,58 @@
+{
+    "result": {
+        "keywords": ["official", "default", "fuji"],
+        "logoURI": "https://storageapi.fleek.co/beethovenxfi-team-bucket/bethovenx-icon.png",
+        "name": "Avalance Fuji",
+        "tags": {},
+        "timestamp": "2021-10-06T18:18:18.181Z",
+        "tokens": [{
+            "address": "0x4321b7e738075d7c7be3ca9f568cfa87412676e9",
+            "chainId": 43113,
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/ava-labs/bridge-tokens/main/avalanche-tokens/0x60781C2586D68229fde47564546784ab3fACA982/logo.png",
+            "name": "mock WAVAX",
+            "symbol": "mWAVAX"
+        },
+        {
+            "address": "0x05b2cc9a2212d3a9afb27e034c6922bcbb8defeb",
+            "chainId": 43113,
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/0xdE61d83F83950fDe967BD2C68B1a9f64694F85Ff/logo.png",
+            "name": "mock JENKEM",
+            "symbol": "mJENKEM"
+        },
+        {
+            "address": "0x4321b7e738075d7c7be3ca9f568cfa87412676e9",
+            "chainId": 43113,
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/ava-labs/bridge-tokens/main/avalanche-tokens/0x60781C2586D68229fde47564546784ab3fACA982/logo.png",
+            "name": "mWAVAX",
+            "symbol": "mWAVAX"
+        },
+        {
+            "address": "0xcbb327140E91039A3f4E8EcF144b0f12238D6fdd",
+            "chainId": 43113,
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/0xc12e249FaBe1c5Eb7C558E5F50D187687a244E31/logo.png",
+            "name": "Blue",
+            "symbol": "BLUE"
+        },
+        {
+            "address": "0x2058ec2791dD28b6f67DB836ddf87534F4Bbdf22",
+            "chainId": 43113,
+            "name": "The Fuji stablecoin",
+            "symbol": "FUJISTABLE",
+            "decimals": 6,
+            "logoURI": "https://i.imgur.com/LPZDXoT.png"
+            },
+            {
+            "address": "0x97132C109c6816525F7f338DCb7435E1412A7668",
+            "chainId": 43113,
+            "name": "To the Moon",
+            "symbol": "FUJIMOON",
+            "decimals": 9,
+            "logoURI": "https://i.imgur.com/jNTqyQA.png"
+            }
+        ]
+    }
+}
