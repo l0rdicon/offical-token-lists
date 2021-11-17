@@ -38,22 +38,6 @@
             "symbol": "BLUE"
         },
         {
-            "address": "0x2058ec2791dD28b6f67DB836ddf87534F4Bbdf22",
-            "chainId": 43113,
-            "name": "The Fuji stablecoin",
-            "symbol": "FUJISTABLE",
-            "decimals": 6,
-            "logoURI": "https://i.imgur.com/LPZDXoT.png"
-        },
-        {
-            "address": "0x97132C109c6816525F7f338DCb7435E1412A7668",
-            "chainId": 43113,
-            "name": "To the Moon",
-            "symbol": "FUJIMOON",
-            "decimals": 9,
-            "logoURI": "https://i.imgur.com/jNTqyQA.png"
-        },
-        {
             "address": "0x4b20b17bdb9991a8549f5ceb8bd813419e537209",
             "chainId": 43113,
             "name": "DAI Stablecoin",
