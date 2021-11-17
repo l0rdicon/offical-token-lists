@@ -50,7 +50,7 @@
             "chainId": 43113,
             "name": "USD Coin",
             "symbol": "USDC.e",
-            "decimals": 18,
+            "decimals": 6,
             "logoURI": "https://raw.githubusercontent.com/ava-labs/avalanche-bridge-resources/main/tokens/USDC/logo.png"
         },
         {
