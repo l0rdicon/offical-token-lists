@@ -56,10 +56,18 @@
         {
             "address": "0x4b20b17bdb9991a8549f5ceb8bd813419e537209",
             "chainId": 43113,
-            "name": "DAI.e",
+            "name": "DAI Stablecoin",
             "symbol": "DAI.e",
             "decimals": 9,
-            "logoURI": "https://i.imgur.com/jNTqyQA.png"
+            "logoURI": "https://raw.githubusercontent.com/ava-labs/avalanche-bridge-resources/main/tokens/DAI/logo.png"
+        },
+        {
+            "address": "0xa8E7a33A76ff3ECb8Ffd4b4868D5Be78eC51F5d3",
+            "chainId": 43113,
+            "name": "USD Coin",
+            "symbol": "USDC.e",
+            "decimals": 9,
+            "logoURI": "https://raw.githubusercontent.com/ava-labs/avalanche-bridge-resources/main/tokens/USDC/logo.png"
         }
         ]
     }
