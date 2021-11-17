@@ -42,7 +42,7 @@
             "chainId": 43113,
             "name": "DAI Stablecoin",
             "symbol": "DAI.e",
-            "decimals": 9,
+            "decimals": 18,
             "logoURI": "https://raw.githubusercontent.com/ava-labs/avalanche-bridge-resources/main/tokens/DAI/logo.png"
         },
         {
@@ -50,7 +50,7 @@
             "chainId": 43113,
             "name": "USD Coin",
             "symbol": "USDC.e",
-            "decimals": 9,
+            "decimals": 18,
             "logoURI": "https://raw.githubusercontent.com/ava-labs/avalanche-bridge-resources/main/tokens/USDC/logo.png"
         }
         ]
