@@ -52,6 +52,14 @@
             "symbol": "USDC.e",
             "decimals": 18,
             "logoURI": "https://raw.githubusercontent.com/ava-labs/avalanche-bridge-resources/main/tokens/USDC/logo.png"
+        },
+        {
+            "address": "0xEE67880A6aaBa39c5eAf833B68Ea5fd908dC008D",
+            "chainId": 43113,
+            "name": "Official Token",
+            "symbol": "CAIL",
+            "decimals": 18,
+            "logoURI": "https://cdn.discordapp.com/emojis/910653902003789875.png"
         }
         ]
     }
