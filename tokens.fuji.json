@@ -54,6 +54,14 @@
             "logoURI": "https://raw.githubusercontent.com/ava-labs/avalanche-bridge-resources/main/tokens/USDC/logo.png"
         },
         {
+            "address": "0xfb8fa9f5f0bd47591ba6f7c75fe519e3e8fde429",
+            "chainId": 43113,
+            "name": "USD Coin",
+            "symbol": "USDC2.e",
+            "decimals": 6,
+            "logoURI": "https://raw.githubusercontent.com/ava-labs/avalanche-bridge-resources/main/tokens/USDC/logo.png"
+        },
+        {
             "address": "0xEE67880A6aaBa39c5eAf833B68Ea5fd908dC008D",
             "chainId": 43113,
             "name": "Official Token",
