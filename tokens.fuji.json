@@ -7,12 +7,12 @@
         "timestamp": "2021-10-06T18:18:18.181Z",
         "tokens": [
         {
-                "address": "0xd00ae08403B9bbb9124bB305C09058E32C39A48c",
-                "chainId": 43113,
-                "decimals": 18,
-                "logoURI": "https://raw.githubusercontent.com/ava-labs/bridge-tokens/main/avalanche-tokens/0xB31f66AA3C1e785363F0875A1B74E27b85FD66c7/logo.png",
-                "name": "WAVAX",
-                "symbol": "WAVAX"
+            "address": "0xd00ae08403B9bbb9124bB305C09058E32C39A48c",
+            "chainId": 43113,
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/ava-labs/bridge-tokens/main/avalanche-tokens/0xB31f66AA3C1e785363F0875A1B74E27b85FD66c7/logo.png",
+            "name": "WAVAX",
+            "symbol": "WAVAX"
         },
         {
             "address": "0x4321b7e738075d7c7be3ca9f568cfa87412676e9",
@@ -47,18 +47,10 @@
             "logoURI": "https://raw.githubusercontent.com/ava-labs/avalanche-bridge-resources/main/tokens/DAI/logo.png"
         },
         {
-            "address": "0xa8E7a33A76ff3ECb8Ffd4b4868D5Be78eC51F5d3",
-            "chainId": 43113,
-            "name": "USD Coin",
-            "symbol": "USDC.e",
-            "decimals": 18,
-            "logoURI": "https://raw.githubusercontent.com/ava-labs/avalanche-bridge-resources/main/tokens/USDC/logo.png"
-        },
-        {
             "address": "0xfb8fa9f5f0bd47591ba6f7c75fe519e3e8fde429",
             "chainId": 43113,
             "name": "USD Coin",
-            "symbol": "USDC2.e",
+            "symbol": "USDC.e",
             "decimals": 6,
             "logoURI": "https://raw.githubusercontent.com/ava-labs/avalanche-bridge-resources/main/tokens/USDC/logo.png"
         },
