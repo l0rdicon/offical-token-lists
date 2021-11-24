@@ -1,31 +1,10 @@
 {
-    "pools": [
-        {
-            "id": "0xcfad795082706a36387ac528876adf1879359bed000200000000000000000000",
-            "poolType": "Stable",
-            "address": "0xcfad795082706a36387ac528876adf1879359bed",
-            "swapFee": "0.001",
-            "amp": "0",
-            "totalWeight": "1",
-            "tokens": [
-                {
-                    "address": "0xe7a282dA986F01dE6677250C90cE22A819CE9a9d",
-                    "balance": "500000",
-                    "decimals": "18",
-                    "weight": "0.5"
-                },
-                {
-                    "address": "0xfb8fa9f5f0bd47591ba6f7c75fe519e3e8fde429",
-                    "balance": "43000",
-                    "decimals": "6",
-                    "weight": "0.5"
-                }
-            ],
-            "tokensList": [
-                "0xe7a282dA986F01dE6677250C90cE22A819CE9a9d",
-                "0xfb8fa9f5f0bd47591ba6f7c75fe519e3e8fde429"
-            ],
-            "totalShares": 100
-        }
-    ]
+    "blacklistedPools": [
+      ""
+    ],
+    "chainId": 43113,
+    "incentivizedPools": [
+      "0xcfad795082706a36387ac528876adf1879359bed000200000000000000000000",
+    ],
+    "pausedPools": []
 }
