@@ -55,12 +55,12 @@
             "logoURI": "https://raw.githubusercontent.com/ava-labs/avalanche-bridge-resources/main/tokens/USDC/logo.png"
         },
         {
-            "address": "0xEE67880A6aaBa39c5eAf833B68Ea5fd908dC008D",
+            "address": "0xe7a282dA986F01dE6677250C90cE22A819CE9a9d",
             "chainId": 43113,
-            "name": "Official Token",
-            "symbol": "CAIL",
+            "name": "Embr Token",
+            "symbol": "EMBR",
             "decimals": 18,
-            "logoURI": "https://cdn.discordapp.com/emojis/910653902003789875.png"
+            "logoURI": "https://cdn.discordapp.com/attachments/908453257393877072/912791521122746438/embr.png"
         }
         ]
     }
