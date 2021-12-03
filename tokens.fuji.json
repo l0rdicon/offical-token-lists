@@ -77,6 +77,14 @@
             "symbol": "EMBRV3",
             "decimals": 18,
             "logoURI": "https://cdn.discordapp.com/attachments/908453257393877072/912791521122746438/embr.png"
+        },
+        {
+            "address": "0xec3ffBcEF28e4e7A60D2c0f0f558e8a64c973f9D",
+            "chainId": 43113,
+            "name": "Embr Token",
+            "symbol": "EMBRV4",
+            "decimals": 18,
+            "logoURI": "https://cdn.discordapp.com/attachments/908453257393877072/912791521122746438/embr.png"
         }
         ]
     }
