@@ -9,6 +9,8 @@
       "0x794dfa11b6a9649dbf9c2f1cc06e075a786b2dc000020000000000000000000f",
       "0xcfad795082706a36387ac528876adf1879359bed000200000000000000000000"
     ],
-    "pausedPools": []
+    "pausedPools": [],
+     "featuredPools": [
+    ]
   }
 }
